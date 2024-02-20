@@ -1,4 +1,5 @@
----
+---infinix
+
 manufacturer:
     - general
 ---
